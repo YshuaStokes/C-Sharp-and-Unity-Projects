@@ -1,0 +1,8 @@
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.AssemblyReference.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
