@@ -11,33 +11,33 @@ namespace BranchingAssignment
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
-            Console.WriteLine("Please enter your package weight in pounds, rounded up.");
+            Console.WriteLine("Please enter your package weight in pounds.");
             string PackageWeight = Console.ReadLine();
-            int Weight = Convert.ToInt32(PackageWeight);
+            decimal Weight = Convert.ToDecimal(PackageWeight);
             if (Weight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
                 Console.ReadLine();
             } else
             {
-                Console.WriteLine("Please enter package width in inches, rounded up.");
+                Console.WriteLine("Please enter package width in inches.");
                 string PackageWidth = Console.ReadLine();
-                int Width = Convert.ToInt32(PackageWidth);
+                decimal Width = Convert.ToDecimal(PackageWidth);
                 Console.WriteLine("Please enter package Height.");
                 string PackageHeight = Console.ReadLine();
-                int Height = Convert.ToInt32(PackageHeight);
+                decimal Height = Convert.ToDecimal(PackageHeight);
                 Console.WriteLine("Please enter package Length.");
                 string PackageLength = Console.ReadLine();
-                int Length = Convert.ToInt32(PackageLength);
-                int total = (Width + Height + Length);
+                decimal Length = Convert.ToDecimal(PackageLength);
+                decimal total = (Width + Height + Length);
                 if (total > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                     Console.ReadLine();
                 } else
                 {
-                    int VolumeWeight = (Height * Width * Length * Weight);
-                    int ShippingQuote = (VolumeWeight / 100);
+                    decimal VolumeWeight = (Height * Width * Length * Weight);
+                    decimal ShippingQuote = (VolumeWeight / 100);
                     Console.WriteLine("Your shipping quote is $" + ShippingQuote); 
                     Console.ReadLine();
                 }
