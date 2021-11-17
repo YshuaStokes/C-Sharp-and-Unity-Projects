@@ -22,7 +22,7 @@ namespace BooleanAssingment
 
             //Boolean Logic
             bool ageBool = (Age > 15);
-            bool ticketsBool = (Tickets < 3);
+            bool ticketsBool = (Tickets <= 3);
             bool NoDui = (DUI == false);
             bool approved = (ageBool && ticketsBool && NoDui);
             Console.WriteLine("Approved: " + approved);
