@@ -1,0 +1,8 @@
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\bin\Debug\ExeptionHandlingAssignment.exe.config
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\bin\Debug\ExeptionHandlingAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\bin\Debug\ExeptionHandlingAssignment.pdb
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\obj\Debug\ExeptionHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\obj\Debug\ExeptionHandlingAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\obj\Debug\ExeptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\obj\Debug\ExeptionHandlingAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ExeptionHandlingAssignment\obj\Debug\ExeptionHandlingAssignment.pdb
