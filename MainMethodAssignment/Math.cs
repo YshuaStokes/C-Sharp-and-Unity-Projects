@@ -8,18 +8,18 @@ namespace MainMethodAssignment
 {
     public class Math
     {
-        public static int MyMethod(int x)
+        public int MyMethod(int x)
         {
             return 5 + x;
         }
 
-        public static decimal MyMethod(double x)
+        public decimal MyMethod(double x)
         {
             int result = Convert.ToInt32(x * 9);
             return result;
         }
 
-        public static string MyMethod(string x)
+        public string MyMethod(string x)
         {
             string number = x;
             int num = Convert.ToInt32(number);
