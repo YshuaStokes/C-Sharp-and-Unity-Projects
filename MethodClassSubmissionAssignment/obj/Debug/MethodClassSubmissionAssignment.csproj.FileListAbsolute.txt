@@ -1,0 +1,8 @@
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\bin\Debug\MethodClassSubmissionAssignment.exe.config
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\bin\Debug\MethodClassSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\bin\Debug\MethodClassSubmissionAssignment.pdb
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\MethodClassSubmissionAssignment\obj\Debug\MethodClassSubmissionAssignment.pdb
