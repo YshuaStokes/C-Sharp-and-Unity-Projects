@@ -10,11 +10,12 @@ namespace MainMethodAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Math.MyMethod(2));
+            Math MathCall = new Math();
+            Console.WriteLine(MathCall.MyMethod(2));
 
-            Console.WriteLine(Math.MyMethod(2.0));
+            Console.WriteLine(MathCall.MyMethod(2.0));
 
-            Console.WriteLine(Math.MyMethod("4"));
+            Console.WriteLine(MathCall.MyMethod("4"));
             
             Console.ReadLine();
         }
