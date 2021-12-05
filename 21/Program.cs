@@ -10,6 +10,8 @@ namespace _21
     {
         static void Main(string[] args)
         {
+            
+
             Deck deck = new Deck();
 
             deck.Shuffle(3);
@@ -25,14 +27,7 @@ namespace _21
 
         
 
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-    //        for (int i = 0; i<times; i++)
-    //        {
-    //            deck = Shuffle(deck);
-    //}
-    //        return deck;
-        //}
+     
     }
 
 
