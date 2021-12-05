@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassSubmissionAssignment
 {
-    public class Integer
+    public class Math
     {
         public void Divide(int x)
         {
@@ -24,6 +24,8 @@ namespace ClassSubmissionAssignment
         {
             return x * y;
         }
+
+       
 
 
     }

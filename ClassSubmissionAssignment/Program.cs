@@ -10,7 +10,9 @@ namespace ClassSubmissionAssignment
     {
         static void Main(string[] args)
         {
-            Integer integer = new Integer();
+            Math integer = new Math();
+
+            
             
 
             Console.WriteLine("Enter a number");
@@ -18,8 +20,12 @@ namespace ClassSubmissionAssignment
             integer.Divide(userInput);
             Console.WriteLine("3 * 2 = " + integer.Multiply(3));
             Console.WriteLine("3 * 9 = " + integer.Multiply(3, 9));
+
+            Console.WriteLine("3 squared is " + StaticClass.StaticMultiply(int.Parse("3")));
+
             Console.ReadLine();
         }
+
 
         
     }
