@@ -25,7 +25,13 @@ namespace ClassSubmissionAssignment
             return x * y;
         }
 
-       
+        public string StringCounter(string input, out int count)
+        {
+            count = input.Length;
+            string phrase = "You typed " + count + " characters";
+            return phrase;
+        }
+
 
 
     }

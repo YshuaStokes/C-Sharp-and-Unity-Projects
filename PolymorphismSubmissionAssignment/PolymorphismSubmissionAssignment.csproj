@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7D777E66-1DDD-4BF5-AB2C-16E7FBBABFCE}</ProjectGuid>
+    <ProjectGuid>{98246C30-E192-4C01-A598-FC95D3AFC7D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_21</RootNamespace>
-    <AssemblyName>21</AssemblyName>
+    <RootNamespace>PolymorphismSubmissionAssignment</RootNamespace>
+    <AssemblyName>PolymorphismSubmissionAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dealer.cs" />
-    <Compile Include="IWalkAway.cs" />
-    <Compile Include="Player.cs" />
-    <Compile Include="TwentyOneGame.cs" />
-    <Compile Include="Card.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="Game.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="IQuittable.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

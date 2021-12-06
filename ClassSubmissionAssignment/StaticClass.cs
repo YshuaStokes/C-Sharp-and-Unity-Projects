@@ -12,5 +12,10 @@ namespace ClassSubmissionAssignment
         {
             return x * x;
         }
+
+        public static void myMethod(out int number)
+        {
+            number = 7;
+        }
     }
 }
