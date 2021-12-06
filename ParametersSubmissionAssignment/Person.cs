@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OperatorsSubmissionAssignment
+namespace ParametersSubmissionAssignment
 {
     public abstract class Person
     {
@@ -13,6 +13,6 @@ namespace OperatorsSubmissionAssignment
 
         public abstract void SayName();
 
-        
+
     }
 }

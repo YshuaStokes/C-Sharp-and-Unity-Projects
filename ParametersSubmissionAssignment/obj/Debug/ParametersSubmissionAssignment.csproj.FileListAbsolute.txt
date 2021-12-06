@@ -1,0 +1,8 @@
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\bin\Debug\ParametersSubmissionAssignment.exe.config
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\bin\Debug\ParametersSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\bin\Debug\ParametersSubmissionAssignment.pdb
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\obj\Debug\ParametersSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\obj\Debug\ParametersSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\obj\Debug\ParametersSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\obj\Debug\ParametersSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParametersSubmissionAssignment\obj\Debug\ParametersSubmissionAssignment.pdb

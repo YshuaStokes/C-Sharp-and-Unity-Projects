@@ -34,9 +34,6 @@ namespace OperatorsSubmissionAssignment
 
         }
 
-        //public static Person operator+ (Person person, Employee employee)
-        //{
-        //    person.Employee.Add(employee);
-        //}
+        
     }
 }

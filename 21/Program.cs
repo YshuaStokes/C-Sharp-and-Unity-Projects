@@ -10,12 +10,7 @@ namespace _21
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Yshua";
-            game += player;
-            game -= player;
+            //Player<Card> player = new Player<Card>();
 
             Deck deck = new Deck();
 
