@@ -1,0 +1,8 @@
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.exe.config
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\bin\Debug\ParsingEnumsSubmissionAssignment.pdb
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\ParsingEnumsSubmissionAssignment\obj\Debug\ParsingEnumsSubmissionAssignment.pdb
