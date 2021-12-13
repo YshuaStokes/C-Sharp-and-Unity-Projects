@@ -1,0 +1,8 @@
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe.config
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.pdb
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\Y'shua\Documents\GitHub\C-Sharp-and-Unity-Projects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.pdb
